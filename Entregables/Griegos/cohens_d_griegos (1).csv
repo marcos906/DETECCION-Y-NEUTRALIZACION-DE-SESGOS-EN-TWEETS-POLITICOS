@@ -1,0 +1,25 @@
+grupo,valor,grupo_1,grupo_2,d_cohen,t_stat,p_value,n1,n2
+gender,num_determinantes,masculino,femenino,-0.01511,-0.21068,0.8332368160263988,715,244
+gender,num_nouns,masculino,femenino,-0.05637,-0.75137,0.4528589433846054,715,244
+gender,num_verbs,masculino,femenino,0.04012,0.5642,0.5728967831958436,715,244
+gender,num_adjectives,masculino,femenino,-0.01143,-0.15374,0.8778915240264364,715,244
+gender,num_proper_nouns,masculino,femenino,0.11755,1.67743,0.09412803679086083,715,244
+gender,ratio_noun_to_verb,masculino,femenino,0.05102,0.69942,0.48466533129572165,715,244
+edad_grupo,num_determinantes,joven,mayor,0.62855,3.08054,0.006379075272202982,16,264
+edad_grupo,num_nouns,joven,mayor,0.6351,3.19709,0.004880954148953112,16,264
+edad_grupo,num_verbs,joven,mayor,0.25891,0.85309,0.40598723328780195,16,264
+edad_grupo,num_adjectives,joven,mayor,0.06973,0.23401,0.817884453872469,16,264
+edad_grupo,num_proper_nouns,joven,mayor,-0.06962,-0.24182,0.8119119334945458,16,264
+edad_grupo,ratio_noun_to_verb,joven,mayor,-0.15409,-0.65121,0.523478651303218,16,264
+party,num_determinantes,Νέα Δημοκρατία,Συνασπισμός Ριζοσπαστικής Αριστεράς – Προοδευτική Συμμαχία,-0.05825,-0.61562,0.539015052237674,608,107
+party,num_nouns,Νέα Δημοκρατία,Συνασπισμός Ριζοσπαστικής Αριστεράς – Προοδευτική Συμμαχία,-0.05199,-0.54376,0.5873731992552819,608,107
+party,num_verbs,Νέα Δημοκρατία,Συνασπισμός Ριζοσπαστικής Αριστεράς – Προοδευτική Συμμαχία,-0.06084,-0.56239,0.5747384509589116,608,107
+party,num_adjectives,Νέα Δημοκρατία,Συνασπισμός Ριζοσπαστικής Αριστεράς – Προοδευτική Συμμαχία,0.05226,0.55446,0.5800331844182953,608,107
+party,num_proper_nouns,Νέα Δημοκρατία,Συνασπισμός Ριζοσπαστικής Αριστεράς – Προοδευτική Συμμαχία,0.08088,0.81919,0.41394671332079014,608,107
+party,ratio_noun_to_verb,Νέα Δημοκρατία,Συνασπισμός Ριζοσπαστικής Αριστεράς – Προοδευτική Συμμαχία,-0.02931,-0.30385,0.7616453122761564,608,107
+ideologia,num_determinantes,derecha,izquierda,-0.09243,-1.16292,0.24582457019480516,717,176
+ideologia,num_nouns,derecha,izquierda,-0.09566,-1.20034,0.2309968727406132,717,176
+ideologia,num_verbs,derecha,izquierda,-0.03366,-0.39896,0.6902434116809666,717,176
+ideologia,num_adjectives,derecha,izquierda,-0.00245,-0.03083,0.9754268703383153,717,176
+ideologia,num_proper_nouns,derecha,izquierda,0.19201,2.59161,0.009990895223638394,717,176
+ideologia,ratio_noun_to_verb,derecha,izquierda,0.00052,0.00679,0.9945838009463874,717,176
